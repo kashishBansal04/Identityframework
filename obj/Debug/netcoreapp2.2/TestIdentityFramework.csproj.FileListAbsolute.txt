@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\TestIdentityFramework\bin\Debug\netcoreapp2.2\TestIdentityFramework.deps.json
+C:\Users\HP\Desktop\TestIdentityFramework\bin\Debug\netcoreapp2.2\TestIdentityFramework.runtimeconfig.json
+C:\Users\HP\Desktop\TestIdentityFramework\bin\Debug\netcoreapp2.2\TestIdentityFramework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TestIdentityFramework\bin\Debug\netcoreapp2.2\TestIdentityFramework.dll
+C:\Users\HP\Desktop\TestIdentityFramework\bin\Debug\netcoreapp2.2\TestIdentityFramework.pdb
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.AssemblyInfo.cs
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.dll
+C:\Users\HP\Desktop\TestIdentityFramework\obj\Debug\netcoreapp2.2\TestIdentityFramework.pdb
